@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: #f3e0c5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  color: #2c2c2c;
+}
+
+.App-logo {
+  height: 160px;
+  margin-bottom: 20px;
+}
+
+.App-header h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.App-header p {
+  font-size: 1.5rem;
+}
